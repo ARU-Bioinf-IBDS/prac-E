@@ -1,7 +1,7 @@
-# Exercise A: handling sequences in strings.
+# Exercise B: substring and slicing strings.
 
 Before starting this exercise you should work through
-**Chapter 1 Python Basics** from the
+**Chapter 2 Python Lists** from the
 [DataCamp online course Intro to Python for Data Science
 ](https://www.datacamp.com/courses/intro-to-python-for-data-science).  
 We will then use what you have learnt there to explore how biological 
@@ -13,7 +13,7 @@ To use this exercise you should either:
   by clicking on: 
 
   [![Azure Notebooks](https://notebooks.azure.com/launch.png)
-  ](https://notebooks.azure.com/import/gh/ARU-Bioinformatics/ibdsA-ex-A/)
+  ](https://notebooks.azure.com/import/gh/ARU-Bioinformatics/ibdsA-ex-B/)
 
   If this unfamiliar, please review: 
   [Getting Started Instructions using Azure Notebooks
@@ -23,7 +23,7 @@ To use this exercise you should either:
   download:
 
   [<img src="images/download_zip.png" alt="Download zip" width="50px"/>
-  ](https://github.com/ARU-Bioinformatics/ibdsA-ex-A/archive/master.zip)
+  ](https://github.com/ARU-Bioinformatics/ibdsA-ex-B/archive/master.zip)
 
   then unzip the file and move the directory to where you are storing your work.
   If this unfamiliar, please review: 
