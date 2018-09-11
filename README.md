@@ -1,11 +1,13 @@
-# Exercise B: substring and slicing strings.
+# Exercise B: lists and strings.
 
 Before starting this exercise you should work through
 **Chapter 2 Python Lists** from the
 [DataCamp online course Intro to Python for Data Science
 ](https://www.datacamp.com/courses/intro-to-python-for-data-science).  
 We will then use what you have learnt there to explore how biological 
-sequence data can be handled in Python.
+sequence data can be handled in Python. We will be concentration
+on how lists can be used and their similarities and differences to 
+strings.
 
 To use this exercise you should either:
 
