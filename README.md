@@ -1,7 +1,11 @@
 # Exercise B: lists and strings.
 
 Before starting this exercise you should work through
-**Chapter 2 Python Lists** from the
+
+* *Chapter 2 Python Lists*
+* *Chapter 3 Function and Packages*
+
+from the
 [DataCamp online course Intro to Python for Data Science
 ](https://www.datacamp.com/courses/intro-to-python-for-data-science).  
 We will then use what you have learnt there to explore how biological 
