@@ -2,12 +2,15 @@
 
 Before starting this exercise you should work through
 
-* *Chapter 3 Logic, Control Flow and Filtering*
-* *Chapter 4 Filtering*
+* First part of *Chapter 3 Logic, Control Flow and Filtering* 
+  stopping before the video "Filtering Pandas DataFrame",
+* First part of  *Chapter 4 Loops*
+  stopping before the video "Looping Data Structures, part 1",
 
 from the
 [DataCamp online course: Intermediate Python for Data Science
-](https://www.datacamp.com/courses/intermediate-python-for-data-science).
+](https://www.datacamp.com/courses/intermediate-python-for-data-science),
+.
 We will then use what you have learnt there to explore how biological 
 data can be handled in Python. 
 
