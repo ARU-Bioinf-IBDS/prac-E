@@ -1,4 +1,4 @@
-# Exercise C: Conditional tests and loops.
+# Exercise D: Writing your own function
 
 Before starting this exercise you should work through
 
