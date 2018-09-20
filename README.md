@@ -1,11 +1,9 @@
-# Exercise D: Writing your own function
+# Exercise D: Writing your own functions
 
 Before starting this exercise you should work through
 
 * First part of *Chapter 3 Logic, Control Flow and Filtering* 
   stopping before the video "Filtering Pandas DataFrame",
-* First part of  *Chapter 4 Loops*
-  stopping before the video "Looping Data Structures, part 1",
 
 from the
 [DataCamp online course: Intermediate Python for Data Science
@@ -20,7 +18,7 @@ To use this exercise you should either:
   by clicking on: 
 
   [![Azure Notebooks](https://notebooks.azure.com/launch.png)
-  ](https://notebooks.azure.com/import/gh/ARU-Bioinformatics/ibdsA-ex-C/)
+  ](https://notebooks.azure.com/import/gh/ARU-Bioinformatics/ibdsA-ex-D/)
 
   If this unfamiliar, please review: 
   [Getting Started Instructions using Azure Notebooks
@@ -30,7 +28,7 @@ To use this exercise you should either:
   download:
 
   [<img src="images/download_zip.png" alt="Download zip" width="50px"/>
-  ](https://github.com/ARU-Bioinformatics/ibdsA-ex-C/archive/master.zip)
+  ](https://github.com/ARU-Bioinformatics/ibdsA-ex-D/archive/master.zip)
 
   then unzip the file and move the directory to where you are storing your work.
   If this unfamiliar, please review: 
@@ -38,9 +36,10 @@ To use this exercise you should either:
   ](https://github.com/ARU-Bioinformatics/ibdsA-intro#getting-started-instructions-using-local-jupyter-notebook-installation).
 
 Then in Azure Notebooks or Jupyter Notebook:
-* open the workbook **ex_C_workbook.ipynb** and work through it.
-* once you have completed the workbook, then move onto the homework book **ex_C_homework.ipynb**
-* we will go through everyones completed notebook in [Seminar C](https://canvas.anglia.ac.uk/courses/1490/discussion_topics/54062?module_item_id=277993).
+* open the workbook **ex_D_workbook.ipynb** and work through it.
+* once you have completed the workbook, then move onto the homework book **ex_D_homework.ipynb**
+* we will go through everyones completed notebook in [Seminar D](
+https://canvas.anglia.ac.uk/courses/1490/discussion_topics/54475?module_item_id=280754).
 
 -------------------------
 
