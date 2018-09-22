@@ -2,12 +2,11 @@
 
 Before starting this exercise you should work through
 
-* First part of *Chapter 3 Logic, Control Flow and Filtering* 
-  stopping before the video "Filtering Pandas DataFrame",
+*  *Chapter 1 Writing your own functions*
 
 from the
-[DataCamp online course: Intermediate Python for Data Science
-](https://www.datacamp.com/courses/intermediate-python-for-data-science),
+[DataCamp online course: Python Data Science Toolbox (Part 1)
+](https://campus.datacamp.com/courses/python-data-science-toolbox-part-1/),
 .
 We will then use what you have learnt there to explore how biological 
 data can be handled in Python. 
