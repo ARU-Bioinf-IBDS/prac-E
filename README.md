@@ -6,8 +6,8 @@ Before starting this exercise you should work through
 
 from the
 [DataCamp online course: Python Data Science Toolbox (Part 1)
-](https://campus.datacamp.com/courses/python-data-science-toolbox-part-1/),
-.
+](https://campus.datacamp.com/courses/python-data-science-toolbox-part-1/).
+
 We will then use what you have learnt there to explore how biological 
 data can be handled in Python. 
 
