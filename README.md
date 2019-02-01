@@ -1,4 +1,4 @@
-# Exercise D: Writing your own functions
+# Practical E: Writing your own functions
 
 Before starting this exercise you should work through
 
