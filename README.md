@@ -19,53 +19,62 @@ To prepare for this practical you should first work through:
 *  *Chapter 1 Writing your own functions*
 
 from the
-[DataCamp online course: Python Data Science Toolbox (Part 1)
+[DataCamp](https://www.datacamp.com/)
+online course: [Python Data Science Toolbox (Part 1)
 ](https://campus.datacamp.com/courses/python-data-science-toolbox-part-1/).
 
-We will then use what you have learnt there to explore how biological 
-data can be handled in Python. 
+We will then use what you have learnt there to explore how Python functions
+can be useful in biological applicationis. 
 
-To use this exercise you should either:
+To use this practical you should *either*:
 
-* Import the exercise as a library into your Azure Notebooks account,
-  by clicking on: 
-
+* If you are using Azure Notebooks import the practical as a library into your Azure Notebooks account,
+  by clicking on (and then accepting default options):\
   [![Azure Notebooks](https://notebooks.azure.com/launch.png)
-  ](https://notebooks.azure.com/import/gh/ARU-Bioinformatics/ibdsA-ex-D/)
+  ](https://notebooks.azure.com/import/gh/ARU-Bioinformatics/prac-E/)
 
-  If this unfamiliar, please review: 
-  [Getting Started Instructions using Azure Notebooks
-  ](https://github.com/ARU-Bioinformatics/ibdsA-intro#getting-started-instructions-using-azure-notebooks).
+* *Or* if you are using Google Colab then:
+  * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg) workbook_E.ipynb](
+    https://colab.research.google.com/github/ARU-Bioinf-IBDS/prac-E/blob/master/workbook_E.ipynb) 
+    then *COPY TO DRIVE*.
+  * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg) homework_E.ipynb](
+    https://colab.research.google.com/github/ARU-Bioinf-IBDS/prac-E/blob/master/homework_E.ipynb) 
+    then *COPY TO DRIVE*.  
 
-* or if you are using a local Jupyter Notebook installation, then 
-  download:
+* *Or* if you are using a local Jupyter Notebook installation, then 
+  * download [workbook_E.ipynb](
+    https://raw.githubusercontent.com/ARU-Bioinf-IBDS/prac-E/master/workbook_E.ipynb)
+    by right clicking on the link and selecting *"Save Link As"*
+  * download [homework_E.ipynb](
+    https://raw.githubusercontent.com/ARU-Bioinf-IBDS/prac-E/master/homework_E.ipynb)
+    by right clicking on the link and selecting *"Save Link As"*
 
-  [<img src="images/download_zip.png" alt="Download zip" width="50px"/>
-  ](https://github.com/ARU-Bioinformatics/ibdsA-ex-D/archive/master.zip)
+  Once you have downloaded the notebooks move them to a directory where you are
+  storing your work for this module (I would advise calling this `IBDS` and placing this in a
+  folder that is automatically backed up to OneDrive, GoogleDrive or similar). 
 
-  then unzip the file and move the directory to where you are storing your work.
-  If this unfamiliar, please review: 
-  [Getting Started Instructions using local Jupyter Notebook installation
-  ](https://github.com/ARU-Bioinformatics/ibdsA-intro#getting-started-instructions-using-local-jupyter-notebook-installation).
+If this unfamiliar, please go back and look at 
+  [Practical A](https://github.com/ARU-Bioinf-IBDS/prac-A) 
+
 
 Then in Azure Notebooks or Jupyter Notebook:
-* open the workbook **ex_D_workbook.ipynb** and work through it.
-* once you have completed the workbook, then move onto the homework book **ex_D_homework.ipynb**
-* we will go through everyones completed notebook in [Seminar D](
-https://canvas.anglia.ac.uk/courses/1490/discussion_topics/54475?module_item_id=280754).
+* open the workbook **workbook_E.ipynb** and work through it.
+* once you have completed the workbook, then move onto the homework book **homework_E.ipynb**
+* then go on to [Reflection on Practical E: writing your own functions](
+  https://canvas.anglia.ac.uk/courses/1490/discussion_topics/54475).
 
 -------------------------
 
 > This exercise is part of 
-> [Practical A: Introduction to Python for Bioinformatics](https://github.com/ARU-Bioinformatics/ibdsA-index/blob/master/README.md)
->
-> Module:
->  *Introduction to Bioinformatics and Data Science* 
+> [Introduction to Bioinformatics and Data Science, Practicals](https://github.com/ARU-Bioinf-IBDS/index/)
 >
 > Original author: [Oliver S. Smart](https://www.linkedin.com/in/osmart/),
-> developed for BSc Bioinformatics Degree Apprenticeship,
->  [Department of Biomedical & Forensic Sciences,
->  Anglia Ruskin University
->  ](https://www.anglia.ac.uk/science-and-technology/about/biomedical-and-forensic-science).
+> developed for [BSc (Hons) Bioinformatics Degree Apprenticeship](
+  https://www.anglia.ac.uk/bioinformatician),
+> [School of Life Sciences](https://www.anglia.ac.uk/science-and-engineering/life-sciences),
+> Anglia Ruskin University
+> Copyright (c) 2018-2019 Anglia Ruskin University
+
+> <img src="https://aru-bioinf-ibds.github.io./images/DataCamp_Horizontal_RGB.svg" width="150"> 
 >
-> Copyright (c) 2018 Anglia Ruskin University
+> **A big thanks to [DataCamp](https://www.datacamp.com/) for supporting this class!**
