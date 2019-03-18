@@ -1,6 +1,20 @@
 # Practical E: Writing your own functions
 
-Before starting this exercise you should work through
+## Practical Learning Outcomes
+
+This practical looks at how to write your own functions in Python. Functions
+are really useful when a program needs to the same thing more than once and
+they are crucial in producing readable code that can be maintained by others. 
+
+By the end of Practical E you will be able to:
+* Write your own functions
+* Understand how to define function arguments, including default arguments.
+* Understand how to return and use a value from a function
+* Know how to define a docstring describing a function and how to examine
+  docstrings using help.
+
+## Preparation
+To prepare for this practical you should first work through:
 
 *  *Chapter 1 Writing your own functions*
 
