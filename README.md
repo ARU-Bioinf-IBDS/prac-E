@@ -26,6 +26,7 @@ online course: [Python Data Science Toolbox (Part 1)
 We will then use what you have learnt there to explore how Python functions
 can be useful in biological applicationis. 
 
+## The Practical
 To use this practical you should *either*:
 
 * If you are using Azure Notebooks import the practical as a library into your Azure Notebooks account,
