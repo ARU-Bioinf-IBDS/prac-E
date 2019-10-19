@@ -21,10 +21,12 @@ To prepare for this practical you should first work through:
 from the
 [DataCamp](https://www.datacamp.com/)
 online course: [Python Data Science Toolbox (Part 1)
-](https://campus.datacamp.com/courses/python-data-science-toolbox-part-1/).
+](https://campus.datacamp.com/courses/python-data-science-toolbox-part-1/),
+but stop at the *'Bringing it all together'* video (as this uses functions
+with Pandas and dictionaries that we have not yet tackled).
 
 We will then use what you have learnt there to explore how Python functions
-can be useful in biological applicationis. 
+can be useful in biological applications. 
 
 ## The Practical
 To use this practical you should *either*:
