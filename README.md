@@ -32,7 +32,7 @@ To use this practical you should *either*:
 * If you are using Azure Notebooks import the practical as a library into your Azure Notebooks account,
   by clicking on (and then accepting default options):\
   [![Azure Notebooks](https://notebooks.azure.com/launch.png)
-  ](https://notebooks.azure.com/import/gh/ARU-Bioinformatics/prac-E/)
+  ](https://notebooks.azure.com/import/gh/ARU-Bioinf-IBDS/prac-E/)
 
 * *Or* if you are using Google Colab then:
   * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg) workbook_E.ipynb](
